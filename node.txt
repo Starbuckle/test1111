@@ -1,4 +1,5 @@
 ssr://bGV2ZWwxLmdvdmVybm1lbnR0aXBzLmNvbToxNjk1OTphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXTlRnNE9BLz9yZW1hcmtzPThKLU11T1czcGVXTmxlV3VvdWFjamVhVXItYU1nU0RwZ3E3bnJySHduNU9xJnByb3RvcGFyYW09TXpJMk16STNPak0wTlRZM2RXcHViUSZvYmZzcGFyYW09WlRsbE9UY3pNall6TWpjdWQzZDNMbWR2ZGk1b2F3
+hysteria2://123e4567-e89b-12d3-a456-426614174000@demo.hysteria-server.com:443/?protocol=hysteria2&insecure=1&sni=www.example.com&obfs=none&disable_mtu_discover=0#TestNode-Hysteria2
 hysteria2://7cb20a5b-4714-4f06-81cc-83210607654e@aws-linkhy27.liangxin1.xyz:443/?insecure=1&sni=www.apple.com&obfs=none&disable_mtu_discover=0#🇺🇸美国02|流媒体 0.1倍
 hysteria://7cb20a5b-4714-4f06-81cc-83210607654e@aws-linkhy27.liangxin1.xyz:443/?insecure=1&sni=www.apple.com&obfs=none&disable_mtu_discover=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD02%7C%E6%B5%81%E5%AA%92%E4%BD%93%200.1%E5%80%8D
 ssr://bGV2ZWwxLmdvdmVybm1lbnR0aXBzLmNvbToxNjk1OTphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXTlRnNE9BLz9yZW1hcmtzPTc3aVA0b0NOOEotTXVtRmtZVzFsZG1VeE1EVXpNVFZBWjIxaGFXd3VZMjl0JnByb3RvcGFyYW09TXpJMk16STNPak0wTlRZM2RXcHViUSZvYmZzcGFyYW09WlRsbE9UY3pNall6TWpjdWQzZDNMbWR2ZGk1b2F3
