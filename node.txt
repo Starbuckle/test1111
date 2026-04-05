@@ -1,2 +1,3 @@
 vless://11111111-2222-3333-4444-555555555555@yourdomain.com:443?encryption=none&security=tls&type=ws&host=yourdomain.com&path=/ws#TestNode
 vless://7cb20a5b-4714-4f06-81cc-83210607654e@aws-link1.liangxin1.xyz:443?encryption=none&security=tls&type=ws&host=aws-link1.liangxin1.xyz&path=/ws#节点名
+vless://UUID@域名:443?encryption=none&security=tls&type=ws&host=域名&path=/ws#节点名
